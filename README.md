@@ -1,8 +1,8 @@
 # Hi ! I'm Bruno Costa 👋 
 
   
-- 💻 I'm a Java Developer in training at [Let´s Code](https://www.linkedin.com/school/letscodebr/).
-- 📚 Love to learn new things, no matter what a good blend of Tech, Design and Storytelling.
+- 🌱 I’m currently learning Java and Kotlin at [Let´s Code](https://letscode.com.br/).
+- 📚 I love learning new things, regardless of what area.
 
   <div>
   <a href="https://github.com/Brun2310">
@@ -11,14 +11,14 @@
 </a></div>
 
 
- ### Tecnologias
+ ### 💻 Technologies
 <div style="display: inline_block"><br>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt=“Spring” src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
  <img alt=“Kotlin” src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 
-  ### Contato
+  ### 📫 How to reach me
   <a href="https://www.linkedin.com/in/brunoaocosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a>
    <a href="http://api.whatsapp.com/send?phone=5516992262288" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunoaocosta@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
