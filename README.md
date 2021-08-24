@@ -1,7 +1,7 @@
 # Hi ! I'm Bruno Costa 👋 
 
   
-- 🌱 I’m currently learning Java and Kotlin at [Let´s Code](https://letscode.com.br/).
+- 🌱 I’m currently learning Java and Kotlin at [Let´s Code](https://letscode.com.br/) and studying Production Engineering at Universidade FEderal De São Carlos - [UFSCar](https://www2.ufscar.br/).
 - 📚 Learning new things interests me a lot, regardless of what area.
 
   <div>
