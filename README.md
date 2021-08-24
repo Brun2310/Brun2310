@@ -2,7 +2,7 @@
 
   
 - 🌱 I’m currently learning Java and Kotlin at [Let´s Code](https://letscode.com.br/).
-- 📚 I love learning new things, regardless of what area.
+- 📚 Learning new things interests me a lot, regardless of what area.
 
   <div>
   <a href="https://github.com/Brun2310">
